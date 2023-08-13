@@ -1,0 +1,9 @@
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\bin\Release\F___ThePolicy.dll
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\bin\Release\F___ThePolicy.pdb
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\bin\Release\ScriptHookVDotNet2.dll
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\bin\Release\ScriptHookVDotNet2.xml
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\obj\Release\F___ThePolicy.csproj.AssemblyReference.cache
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\obj\Release\F___ThePolicy.csproj.CoreCompileInputs.cache
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\obj\Release\F___ThePolicy.csproj.CopyComplete
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\obj\Release\F___ThePolicy.dll
+C:\Users\razer\OneDrive\Dokumente\F___ThePolicy\F___ThePolicy\obj\Release\F___ThePolicy.pdb
