@@ -1,4 +1,4 @@
-A mod for GTA V that makes the police read the player's rights (GTA V End User License Agreement) when being wanted by the cops.
+A mod for GTA V that makes the police read the player's rights (GTA V End User License Agreement) when they are being wanted by the cops.
 
 GAMEPLAY TRAILER: 
 https://youtu.be/-LHzz3oFkic
