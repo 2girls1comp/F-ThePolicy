@@ -11,7 +11,7 @@ USAGE:
 - the mod is active by default and is triggered when the player is wanted by the police. 
 
 REQUIREMENTS:
-Script Hook V
-Script Hook V Dot Net
+- [Script Hook V](http://www.dev-c.com/gtav/scripthookv/)
+- [Script Hook V Dot Net](https://github.com/crosire/scripthookvdotnet/releases)
 
 ![FThePolicy](screenshots/fthepolicy1.jpg)
