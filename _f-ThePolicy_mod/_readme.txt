@@ -13,3 +13,5 @@ REQUIREMENTS:
 Script Hook V
 Script Hook V Dot Net
 
+VERSION 1.1:
+- Updated to SHVDN3
